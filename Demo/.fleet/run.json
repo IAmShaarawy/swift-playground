@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "xcode-app",
+            "name": "Xcode-app configuration",
+            "buildTarget": {
+                "project": "Demo",
+                "target": "Demo",
+            },
+            "configuration": "Debug",
+            "destination": "Console",
+        },
+        
+    ]
+}
